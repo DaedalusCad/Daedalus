@@ -27,7 +27,7 @@ Syntax highlighted code block
 
 ```
 
-[![button](http://www.presentationpro.com/images/product/medium/slide/PPP_CGENE_LT3_Presentation-PowerPoint-Slide-Graphic_Push_Button_Up.jpg)](https://mattermost.com)
+[![button](https://dkiwjlrz0qi5f.cloudfront.net/blog/wp-content/uploads/2013/04/question-2004314_1280-1-1140x597.jpg)](https://mattermost.com)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
