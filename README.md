@@ -3,7 +3,7 @@ Welcome, Ladies, Gentlemen, and Brendigidy Dawg, to our absolutely awesome new g
 Below you can find links to the process that we underwent in order to bring you such levels of genius. Many hours of struggle, pain, blood, sweat and tears went into this (Yes blood, Alan got a paper cut. We now dont let him near post-it notes anymore). Below are links to:
 1. Brainstorming session
 2. Pitch presentation
-and many more to come! Enjoy, and thank you in advance for our 100% <3 
+> And many more to come! Enjoy, and thank you in advance for our 100% <3 
 
 [![button](https://dkiwjlrz0qi5f.cloudfront.net/blog/wp-content/uploads/2013/04/question-2004314_1280-1-1140x597.jpg)](https://mattermost.com)
 
