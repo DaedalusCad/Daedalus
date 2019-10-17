@@ -1,31 +1,9 @@
-## Welcome to GitHub Pages
+Welcome, Ladies, Gentlemen, and Brendigidy Dawg, to our absolutely awesome new game Daedalus!!!
 
-You can use the [editor on GitHub](https://github.com/DaedalusCad/Daedalus/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-```
+Below you can find links to the process that we underwent in order to bring you such levels of genius. Many hours of struggle, pain, blood, sweat and tears went into this (Yes blood, Alan got a paper cut. We now dont let him near post-it notes anymore). Below are links to:
+1. Brainstorming session
+2. Pitch presentation
+and many more to come! Enjoy, and thank you in advance for our 100% <3 
 
 [![button](https://dkiwjlrz0qi5f.cloudfront.net/blog/wp-content/uploads/2013/04/question-2004314_1280-1-1140x597.jpg)](https://mattermost.com)
 
