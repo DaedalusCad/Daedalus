@@ -5,7 +5,7 @@ Below you can find links to the process that we underwent in order to bring you 
 2. Pitch presentation
 > And many more to come! Enjoy, and thank you in advance for our 100% <3 
 
-[![button](https://dkiwjlrz0qi5f.cloudfront.net/blog/wp-content/uploads/2013/04/question-2004314_1280-1-1140x597.jpg)](https://daedaluscad.github.io/Daedalus/brainstorm/)
+[![button](https://dkiwjlrz0qi5f.cloudfront.net/blog/wp-content/uploads/2013/04/question-2004314_1280-1-1140x597.jpg)](https://daedaluscad.github.io/Daedalus/brainstormDoc.md/)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
